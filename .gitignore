@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+accounts.jsonl
+accounts.txt
+keys.txt
+cookies_*.txt
+*.png
+*.jpg
+*.wav
+*.mp3
+.DS_Store
